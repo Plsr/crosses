@@ -1,4 +1,34 @@
-/* For Testing */
-body {
-  background: red;
-}
+/*
+Theme Name: crosses
+Theme URI: https://github.com/Plsr/crosses
+Author: Christian Poplawski
+Author URI: http://chrispop.de/
+Description: Theme for mildlyInterested.net
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: crosses
+Tags:
+
+crosses is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+The scss version of the meyer reste was build by Adam Stacoviak
+https://github.com/adamstac/meyer-reset
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Meyer Reset
+# Typography
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Meyer Reset
+--------------------------------------------------------------*/
+@import "normalize";
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
