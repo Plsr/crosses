@@ -1,0 +1,23 @@
+{
+  "name": "crosses",
+  "version": "0.0.1",
+  "description": "WP Theme for mildlyInterested.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plsr/crosses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plsr/crosses/issues"
+  },
+  "homepage": "https://github.com/Plsr/crosses#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
